@@ -1,0 +1,12 @@
+http://seclists.org/rss/dailydave.rss
+http://seclists.org/rss/pauldotcom.rss
+http://seclists.org/rss/bugtraq.rss
+http://seclists.org/rss/fulldisclosure.rss
+http://seclists.org/rss/oss-sec.rss
+http://seclists.org/rss/metasploit.rss
+http://seclists.org/rss/snort.rss
+http://seclists.org/rss/wireshark.rss
+http://seclists.org/rss/microsoft.rss
+http://seclists.org/rss/pen-test.rss
+http://seclists.org/rss/nmap-dev.rss
+http://seclists.org/rss/nmap-announce.rss

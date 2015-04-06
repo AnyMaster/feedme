@@ -1,0 +1,9 @@
+http://feeds2.feedburner.com/SecurityTube
+http://securityweekly.com/podcast/psw.xml
+http://securityweekly.com/feed
+http://risky.biz/feeds/risky-business
+http://www.hackingarticles.in/feed/
+http://www.us-cert.gov/ncas/tips.xml
+http://blip.tv/rss/bookmarks/241768
+http://rss.packetstormsecurity.com/files/tags/tool/
+https://www.sans.org/reading-room/rss

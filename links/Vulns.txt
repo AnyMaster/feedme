@@ -1,0 +1,11 @@
+http://www.exploit-db.com/rss.xml
+http://rss.packetstormsecurity.com/files/tags/advisory/
+http://rss.packetstormsecurity.com/news/tags/zero_day/
+http://www.securityfocus.com/rss/vulnerabilities.xml
+http://cxsecurity.com/cverss/fullmap/
+http://blogs.technet.com/b/msrc/rss.aspx
+http://seclists.org/rss/microsoft.rss
+http://www.us-cert.gov/ncas/alerts.xml
+http://www.us-cert.gov/ncas/bulletins.xml
+http://www.us-cert.gov/ncas/current-activity.xml
+http://news.securitytracker.com/server/affiliate?61D319BD39309004

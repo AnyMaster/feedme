@@ -1,0 +1,8 @@
+http://rss.packetstormsecurity.com/news/tags/anonymous/
+http://rss.packetstormsecurity.com/news/tags/botnet/
+http://rss.packetstormsecurity.com/news/tags/denial_of_service/
+http://rss.packetstormsecurity.com/news/tags/cybercrime/
+http://rss.packetstormsecurity.com/news/tags/cyberwar/
+http://rss.packetstormsecurity.com/news/tags/fbi/
+http://rss.packetstormsecurity.com/news/tags/scam/
+http://www.zone-h.org/rss/specialdefacements

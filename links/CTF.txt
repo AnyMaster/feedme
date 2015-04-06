@@ -1,0 +1,11 @@
+http://blog.vulnhub.com/feeds/posts/default?alt=rss
+https://www.vulnhub.com/feeds/added/rss/
+https://www.vulnhub.com/feeds/created/rss/
+https://www.vulnhub.com/feeds/torrent/rss/
+http://www.root-me.org/spip.php?page=backend&id_rubrique=148
+http://www.root-me.org/spip.php?page=backend&id_rubrique=152
+http://www.root-me.org/spip.php?page=backend&id_rubrique=150
+http://www.root-me.org/spip.php?page=backend-breves&lang=en
+http://www.root-me.org/spip.php?page=backend-ctf&lang=en
+http://www.root-me.org/spip.php?page=backend-ctfalltheday&lang=en
+http://www.root-me.org/spip.php?page=backend&lang=en

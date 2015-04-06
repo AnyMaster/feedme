@@ -1,0 +1,15 @@
+http://www.reddit.com/r/netsec/.rss
+http://www.reddit.com/r/blackhat/.rss
+http://www.reddit.com/r/computerforensics/.rss
+http://www.reddit.com/r/Malware/.rss
+http://www.reddit.com/r/ReverseEngineering/.rss
+http://www.reddit.com/r/rootkit/.rss
+http://www.reddit.com/r/SocialEngineering/.rss
+http://www.reddit.com/r/pwned/.rss
+http://www.reddit.com/r/crypto/.rss
+http://www.reddit.com/r/Cyberpunk/.rss
+http://www.reddit.com/r/HackBloc/.rss
+http://www.reddit.com/r/netsecstudents/.rss
+http://www.reddit.com/r/securityCTF/.rss
+http://www.reddit.com/r/vrd/.rss
+http://www.reddit.com/r/xss/.rss
