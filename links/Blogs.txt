@@ -1,4 +1,5 @@
 https://community.rapid7.com/Rapid7_RSSFeed
+http://www.pentesticles.com/feeds/posts/default
 http://www.securitysift.com/feed/
 http://www.chs.us/feed/
 http://adsecurity.org/?feed=rss2
@@ -23,6 +24,10 @@ http://www.unixawy.com/feed/
 http://krebsonsecurity.com/feed/
 http://garwarner.blogspot.com/feeds/posts/default
 http://feeds.feedburner.com/cyveillance
+http://ho.ax/feed.xml
+http://d0cs4vage.blogspot.com/feeds/posts/default
+http://eticanicomana.blogspot.com/feeds/posts/default
+https://net-ninja.net/article/feed.xml
 http://taosecurity.blogspot.com/feeds/posts/default
 http://feeds.feedburner.com/darknethackers
 http://feeds.feedburner.com/SecurityBloggersNetwork
@@ -62,3 +67,9 @@ http://www.securingthehuman.org/blog/feed/
 http://feeds2.feedburner.com/unmaskparasites
 http://feeds.feedburner.com/hacking-tutorials
 http://www.n1tr0g3n.com/?feed=rss2
+https://blog.skullsecurity.org/feed
+http://0xdeadcode.se/feed
+http://www.contextis.com/resources/blog/blog.xml
+http://blog.dornea.nu/feeds/rss.xml
+https://www.pentestgeek.com/feed/
+http://averagesecurityguy.info/feed/
