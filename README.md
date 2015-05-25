@@ -12,3 +12,5 @@ Basically you only need to add links to text files separated by category and run
 Should be pretty easy to modify and add more categories as long as you have a basic understanding of PHP and Python.
 
 I should be updating the links from time to time since I started using it again, but do not expect any other updates. Feel free to use it as you whish.
+
+![Alt text](screenshot.png?raw=true "Look and Feel")
