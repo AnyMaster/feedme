@@ -1,3 +1,5 @@
+http://feeds.feedburner.com/seclist/feed
+http://feeds.feedburner.com/sectechno/
 http://feeds2.feedburner.com/SecurityTube
 http://securityweekly.com/podcast/psw.xml
 http://securityweekly.com/feed

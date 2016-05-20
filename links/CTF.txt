@@ -9,4 +9,3 @@ http://www.root-me.org/spip.php?page=backend-breves&lang=en
 http://www.root-me.org/spip.php?page=backend-ctf&lang=en
 http://www.root-me.org/spip.php?page=backend-ctfalltheday&lang=en
 http://www.root-me.org/spip.php?page=backend&lang=en
-https://exploit-exercises.com/atom.xml

@@ -9,4 +9,3 @@ http://www.us-cert.gov/ncas/alerts.xml
 http://www.us-cert.gov/ncas/bulletins.xml
 http://www.us-cert.gov/ncas/current-activity.xml
 http://news.securitytracker.com/server/affiliate?61D319BD39309004
-http://w00t.pro/feed

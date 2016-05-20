@@ -1,3 +1,4 @@
+https://leaksource.info/feed/
 http://rss.packetstormsecurity.com/news/
 http://rss.packetstormsecurity.com/files/
 http://www.theregister.co.uk/security/headlines.atom
@@ -9,13 +10,12 @@ http://news.cnet.com/8300-1009_3-83.xml
 https://news.google.com/news/feeds?pz=1&cf=all&ned=us&hl=en&q=hacking&output=rss
 https://news.google.com/news/feeds?pz=1&cf=all&ned=us&hl=en&q=computer+security&output=rss
 http://feeds.feedburner.com/TheHackersNews
-http://seclists.org/rss/isn.rss
 http://www.infosecisland.com/rss.html
 http://datalossdb.org/latest_incidents_remote_sync.rss
 http://www.zdnet.com/blog/security/rss.xml
 http://software-security.sans.org/blog/feed/
 http://news.hitb.org/rss.xml
-http://www.securelist.com/en/rss/weblog
+https://securelist.com/feed/
 http://www.infosecwriters.com/isw.xml
 http://www.zone-h.org/rss/news
 http://www.securitynewsportal.com/infosyssec/securitynewsportal.rss
